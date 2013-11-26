@@ -15,11 +15,10 @@ To initialize your local repository using the CyanogenMod trees, use a command l
 Then to sync up:
 
     repo sync
-    sh vendor/cm/get-prebuilts
 
 Build your device:
 
-    source build/envsetup.sh
+    . build/envsetup.sh
     brunch DEVICENAME (for ex: brunch cooper)
 
 Flash ZIP:
@@ -45,7 +44,7 @@ Gerrit Setup (yes double review.review, change GERRITUSERNAME with your username
 Uploading Patches
 
     cd WORKING_DIR
-    source build/envsetup.sh
+    . build/envsetup.sh
     cd PROJECT_DIR
     repo start cm-11.0 .
     ... make changes ...
