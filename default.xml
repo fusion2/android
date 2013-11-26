@@ -492,4 +492,5 @@
   <project path="kernel/huawei/huawei-kernel-3.4" name="Dazzozo/huawei-kernel-3.4" remote="gh" revision="kitkat" />
   <project path="vendor/huawei" name="fusion2/proprietary_vendor_huawei" remote="gh" revision="jellybean-mr2" />
   <project path="device/huawei/msm7x27a-common" name="fusion2/android_device_huawei_msm7x27a-common" remote="gh" revision="cm-10.2" />
+  <project name="legaCyMod/android_hardware_atheros_wlan" path="hardware/atheros/wlan" remote="gh" revision="cm-11.0" />
 </manifest>
