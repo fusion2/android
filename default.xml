@@ -14,7 +14,7 @@
   <project groups="pdk" name="CyanogenMod/android_bionic" path="bionic" revision="a46374c5f2a039662c7cb32f4d1e8f5e6a483a2d" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_bootable_diskinstaller" path="bootable/diskinstaller" revision="60d078a5924284a452a8fe739247704f8b31c754" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_bootable_recovery" path="bootable/recovery" revision="d336807ff332978cef214341604888d40e4d6a88" upstream="refs/heads/cm-10.2"/>
-  <project groups="pdk" name="CyanogenMod/android_build" path="build" revision="21f4b4ea5bac0cc3fd5d1f84c4dd6164d421e643" upstream="refs/heads/cm-10.2">
+  <project groups="pdk" name="CyanogenMod/android_build" path="build" revision="cm-10.2" 
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="CyanogenMod/android_dalvik" path="dalvik" revision="cde2aab4c557ec0c847375424658ccc2188b36ce" upstream="refs/heads/cm-10.2"/>
@@ -345,7 +345,7 @@
   <project name="CyanogenMod/ion" path="external/koush/ion" revision="7068c3aba9a4dc3d5b99602de47ad1eb7913a2d8" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" path="vendor/tmobile/apps/ThemeChooser" revision="e3414e0763ef80fbc32fa11947c804b4ad5ec002" upstream="refs/heads/cm-10.2"/>
   <project name="fusion2/android_device_huawei_msm7x27a-common" path="device/huawei/msm7x27a-common" revision="4bc09d835cf8122c49716f3db2345d7d044514c0" upstream="cm-10.2"/>
-  <project name="Dazzozo/android_device_huawei_u8665" path="device/huawei/u8665" revision="8b1d691fd634fac4a2f62ac933d548c274ddfd89" upstream="cm-11.0"/>
+  <project name="fusion2/android_device_huawei_u8665" path="device/huawei/u8665" revision="8b1d691fd634fac4a2f62ac933d548c274ddfd89" upstream="cm-11.0"/>
   <project name="Dazzozo/android_hardware_atheros_wifi_ath6kl-huawei" path="hardware/atheros/wifi/ath6kl-huawei" revision="22deb805ba53aadc462c065005a12ea723c8560c" upstream="master"/>
   <project name="Dazzozo/android_hardware_qcom_display-legacy" path="hardware/qcom/display-legacy" revision="036912614dba650b5cd52d120da44e520bb967ef" upstream="jellybean-mr2"/>
   <project name="Dazzozo/android_hardware_qcom_media-legacy" path="hardware/qcom/media-legacy" revision="da807080a49479f15270f442fda5e7b4010bd081" upstream="jellybean-mr2"/>
