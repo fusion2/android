@@ -197,7 +197,7 @@
   <project name="CyanogenMod/android_external_webkit" path="external/webkit" revision="627a2254823c88682c6d5c3d758f6d895455b473" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_external_webp" path="external/webp" revision="a4c96a734adf49f5514d26ee2a27c0cec205a395" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_external_webrtc" path="external/webrtc" revision="a48979cdf40d633bd6d249c874d216c52c565ea0" upstream="refs/heads/cm-10.2"/>
-  <project groups="pdk" name="CyanogenMod/android_external_wpa_supplicant_8" path="external/wpa_supplicant_8" revision="5b9ef8464cf1fdb0ef5db71c47e5ecac59041b32" upstream="refs/heads/cm-10.2"/>
+  <project groups="pdk" name="CyanogenMod/android_external_wpa_supplicant_8" path="external/wpa_supplicant_8" revision="5a5812949a491875778a05bec2ff06e34b0bc463" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_external_wpa_supplicant_8_ti" path="external/wpa_supplicant_8_ti" revision="31dc9d90d2cc57a1774638f43a0b339007489901" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_external_xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_external_xmp_toolkit" path="external/xmp_toolkit" revision="78566ca27675fc39164c134f6ac1c21bd68e131f" upstream="refs/heads/cm-10.2"/>
