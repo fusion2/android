@@ -14,7 +14,7 @@
   <project groups="pdk" name="CyanogenMod/android_bionic" path="bionic" revision="a46374c5f2a039662c7cb32f4d1e8f5e6a483a2d" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_bootable_diskinstaller" path="bootable/diskinstaller" revision="60d078a5924284a452a8fe739247704f8b31c754" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_bootable_recovery" path="bootable/recovery" revision="d336807ff332978cef214341604888d40e4d6a88" upstream="refs/heads/cm-10.2"/>
-  <project groups="pdk" name="CyanogenMod/android_build" path="build" revision="cm-10.2" 
+  <project groups="pdk" name="CyanogenMod/android_build" path="build" revision="cm-10.2" />
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="CyanogenMod/android_dalvik" path="dalvik" revision="cde2aab4c557ec0c847375424658ccc2188b36ce" upstream="refs/heads/cm-10.2"/>
