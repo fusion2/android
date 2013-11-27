@@ -16,7 +16,6 @@
   <project name="CyanogenMod/android_bootable_recovery" path="bootable/recovery" revision="d336807ff332978cef214341604888d40e4d6a88" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_build" path="build" revision="cm-10.2" />
     <copyfile dest="Makefile" src="core/root.mk"/>
-  </project>
   <project name="CyanogenMod/android_dalvik" path="dalvik" revision="cde2aab4c557ec0c847375424658ccc2188b36ce" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_development" path="development" revision="0fc600db1ec13f2e6636b7d0981b08c7417b929e" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_device_common" path="device/common" revision="0301abc6da47b216b6109ccacc2998a7d0d17014" upstream="refs/heads/cm-10.2"/>
