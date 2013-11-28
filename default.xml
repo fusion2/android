@@ -337,7 +337,7 @@
   <project groups="pdk" name="CyanogenMod/android_system_netd" path="system/netd" revision="203f8c87522c3bb7495bfec6a51361018063f5ef" upstream="refs/heads/cm-10.2"/>
   <project groups="qcom" name="CyanogenMod/android_system_qcom" path="system/qcom" revision="2b78d84937161f99996213d64b72bd15c9355544" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_system_security" path="system/security" revision="b57bd4a1d4c7e737a8a6e09f35aba1b93626c89f" upstream="refs/heads/cm-10.2"/>
-  <project groups="pdk" name="CyanogenMod/android_system_vold" path="system/vold" revision="430f6fbc376d8f2f9bfdacdc511c49d31e22de14" upstream="refs/heads/cm-10.2"/>
+  <project groups="pdk" name="CyanogenMod/android_system_vold" path="system/vold" revision="ffe433ab3e397bf47706ae97758378bf9fa6472d" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_vendor_cm" path="vendor/cm" revision="3c52c900ddd93138aea897e227af5fbf655460b1" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_vendor_qcom_opensource_v8" path="vendor/qcom/opensource/v8" revision="ed6baff3b8971fe968a30c0c7dc631be1f31fd5c" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" path="vendor/tmobile/libs/com.tmobile.themes" revision="4c0f151c11b3de7b70f5ef1d67a69501147bf263" upstream="refs/heads/cm-10.2"/>
