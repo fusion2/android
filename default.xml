@@ -9,7 +9,7 @@
   <project name="CyanogenMod/AndroidAsync" path="external/koush/AndroidAsync" revision="4c60e4db5a4edb9d64bc9037c29b6459f965c793" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/Superuser" path="external/koush/Superuser" revision="95b77e36b9111796851bd84602cce991df452e65" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/Widgets" path="external/koush/Widgets" revision="6aebba738f778bf265f0badbe649f590e46e27fd" upstream="refs/heads/cm-10.2"/>
-  <project name="fusion2/android" path="android" revision="4b1cfdf115599a85a8ef7b333bca449a04b451ca" upstream="refs/heads/cm-10.2"/>
+  <project name="fusion2/android" path="android" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_abi_cpp" path="abi/cpp" revision="eb789ea833d8d800662b67914d9c1785a58c2caa" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_bionic" path="bionic" revision="a46374c5f2a039662c7cb32f4d1e8f5e6a483a2d" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_bootable_diskinstaller" path="bootable/diskinstaller" revision="60d078a5924284a452a8fe739247704f8b31c754" upstream="refs/heads/cm-10.2"/>
