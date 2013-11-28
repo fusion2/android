@@ -238,7 +238,7 @@
   <project groups="broadcom_wlan" name="CyanogenMod/android_hardware_broadcom_wlan" path="hardware/broadcom/wlan" revision="3cc1f8a1eb2986db05de6dd25c0869921dc41136" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_hardware_cm" path="hardware/cm" revision="8b90a4e9a2907daccba3800adecad5abb5d1c367" upstream="refs/heads/cm-10.2"/>
   <project groups="invensense" name="CyanogenMod/android_hardware_invensense" path="hardware/invensense" revision="de880a60e91e342912110aecc5f15385d791aa2a" upstream="refs/heads/cm-10.2"/>
-  <project groups="pdk" name="CyanogenMod/android_hardware_libhardware" path="hardware/libhardware" revision="0a146771acc098efe3e22c4fcba1e42edfa5d957" upstream="refs/heads/cm-10.2"/>
+  <project groups="pdk" name="CyanogenMod/android_hardware_libhardware" path="hardware/libhardware" revision="7f0e0cafc12e2ebead38917ef472ea2d77d50096" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_hardware_libhardware_legacy" path="hardware/libhardware_legacy"  upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_hardware_msm7k" path="hardware/msm7k" revision="82b8164aad76c45db5a0ace0c380ad220c5f0081" upstream="refs/heads/cm-10.2"/>
   <project groups="qcom" name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio" revision="3ca121d25000734f9d8b041a43b75832f5cab22e" upstream="refs/heads/cm-10.2"/>
