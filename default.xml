@@ -239,7 +239,7 @@
   <project name="CyanogenMod/android_hardware_cm" path="hardware/cm" revision="8b90a4e9a2907daccba3800adecad5abb5d1c367" upstream="refs/heads/cm-10.2"/>
   <project groups="invensense" name="CyanogenMod/android_hardware_invensense" path="hardware/invensense" revision="de880a60e91e342912110aecc5f15385d791aa2a" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_hardware_libhardware" path="hardware/libhardware" revision="0a146771acc098efe3e22c4fcba1e42edfa5d957" upstream="refs/heads/cm-10.2"/>
-  <project groups="pdk" name="CyanogenMod/android_hardware_libhardware_legacy" path="hardware/libhardware_legacy" revision="3aee01d7fdad1876db5e79b28766c8d3736e0e77" upstream="refs/heads/cm-10.2"/>
+  <project groups="pdk" name="CyanogenMod/android_hardware_libhardware_legacy" path="hardware/libhardware_legacy" revision="e3167c611b0fd79de1b17a7c5010cbe1cdad43fb" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_hardware_msm7k" path="hardware/msm7k" revision="82b8164aad76c45db5a0ace0c380ad220c5f0081" upstream="refs/heads/cm-10.2"/>
   <project groups="qcom" name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio" revision="3ca121d25000734f9d8b041a43b75832f5cab22e" upstream="refs/heads/cm-10.2"/>
   <project groups="caf" name="CyanogenMod/android_hardware_qcom_audio-caf" path="hardware/qcom/audio-caf" revision="e0f67c7c6251ae6ca39edaaf16f50f11d201b500" upstream="refs/heads/cm-10.2"/>
