@@ -14,7 +14,7 @@
   <project groups="pdk" name="CyanogenMod/android_bionic" path="bionic" revision="a46374c5f2a039662c7cb32f4d1e8f5e6a483a2d" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_bootable_diskinstaller" path="bootable/diskinstaller" revision="60d078a5924284a452a8fe739247704f8b31c754" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_bootable_recovery" path="bootable/recovery" revision="d336807ff332978cef214341604888d40e4d6a88" upstream="refs/heads/cm-10.2"/>
-  <project groups="pdk" name="CyanogenMod/android_build" path="build" revision="cm-10.2" />
+  <project groups="pdk" name="CyanogenMod/android_build" path="build" revision="a6a1c6ffef21a5e7a09acf281d046ce3b74ae1fe" upstream="refs/heads/cm-10.2">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="CyanogenMod/android_dalvik" path="dalvik" revision="cde2aab4c557ec0c847375424658ccc2188b36ce" upstream="refs/heads/cm-10.2"/>
@@ -41,7 +41,7 @@
   <project name="CyanogenMod/android_external_bash" path="external/bash" revision="5e693987c7554457fa7b2d2bef5a130fd98c2b44" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_external_bison" path="external/bison" revision="9b56c82c11e460d6ad199747b4a985a375c327fb" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_external_blktrace" path="external/blktrace" revision="d345431f16b8f76f30a58193ff2b26d5853e1109" upstream="refs/heads/cm-10.2"/>
-  <project groups="pdk" name="CyanogenMod/android_external_bluetooth_bluedroid" path="external/bluetooth/bluedroid" revision="4a2bb80b79f20d71661d2f59852bc957ca23d787" upstream="refs/heads/cm-10.2"/>
+  <project groups="pdk" name="CyanogenMod/android_external_bluetooth_bluedroid" path="external/bluetooth/bluedroid" revision="12fc3d5eada289536998d153486c003f78d00964" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_external_bouncycastle" path="external/bouncycastle" revision="b9107e03cbb02e73f61e2105df4d5de9d2c6ab52" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_external_bsdiff" path="external/bsdiff" revision="23e322ab19fb7d74c2c37e40ce364d9f709bdcee" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_external_busybox" path="external/busybox" revision="b0e9a50e7f55f4a664751815d0f89de575c827f1" upstream="refs/heads/cm-10.2"/>
@@ -198,14 +198,14 @@
   <project name="CyanogenMod/android_external_webkit" path="external/webkit" revision="627a2254823c88682c6d5c3d758f6d895455b473" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_external_webp" path="external/webp" revision="a4c96a734adf49f5514d26ee2a27c0cec205a395" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_external_webrtc" path="external/webrtc" revision="a48979cdf40d633bd6d249c874d216c52c565ea0" upstream="refs/heads/cm-10.2"/>
-  <project groups="pdk" name="CyanogenMod/android_external_wpa_supplicant_8" path="external/wpa_supplicant_8" revision="5a5812949a491875778a05bec2ff06e34b0bc463" upstream="refs/heads/cm-10.2"/>
+  <project groups="pdk" name="CyanogenMod/android_external_wpa_supplicant_8" path="external/wpa_supplicant_8" revision="b38f0593f59a3973dcea351341fee133122b21d1" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_external_wpa_supplicant_8_ti" path="external/wpa_supplicant_8_ti" revision="31dc9d90d2cc57a1774638f43a0b339007489901" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_external_xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_external_xmp_toolkit" path="external/xmp_toolkit" revision="78566ca27675fc39164c134f6ac1c21bd68e131f" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_external_yaffs2" path="external/yaffs2" revision="03a490214dc2ac29104ed10b29659d9585a6a5f2" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_external_zlib" path="external/zlib" revision="20f1a74432fdb680742c150dc63e4d9ca3bbc2ad" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_external_zxing" path="external/zxing" revision="7620644768ffc235607b3a94671e49518c18686f" upstream="refs/heads/cm-10.2"/>
-  <project name="CyanogenMod/android_frameworks_base" path="frameworks/base" revision="38e88ee4c64e00c68ea304f6b091a5ba245c0e5d" upstream="refs/heads/cm-10.2"/>
+  <project name="CyanogenMod/android_frameworks_base" path="frameworks/base" revision="62a9e9b34deff57ca852d33d9c80fbc237102b96" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_frameworks_compile_libbcc" path="frameworks/compile/libbcc" revision="1b71dedd47fc8ed6f4f77ece13fa985fd7d2c0a4" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_frameworks_compile_mclinker" path="frameworks/compile/mclinker" revision="683cef9b23d77bf85b544a1edb63d19abafa5282" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_frameworks_compile_slang" path="frameworks/compile/slang" revision="d3cd103c40e646408d844318fa1cc87736b1e7b1" upstream="refs/heads/cm-10.2"/>
@@ -223,7 +223,7 @@
   <project name="CyanogenMod/android_frameworks_opt_mms" path="frameworks/opt/mms" revision="6ad544896efefa03c4e77929944eb463c392a9fa" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_frameworks_opt_net_voip" path="frameworks/opt/net/voip" revision="95b560b74749f88a506aa48ec2e68ec3d6474605" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_frameworks_opt_photoviewer" path="frameworks/opt/photoviewer" revision="d98118500eb48b057f5f296cea280a84ac4ede94" upstream="refs/heads/cm-10.2"/>
-  <project groups="pdk" name="CyanogenMod/android_frameworks_opt_telephony" path="frameworks/opt/telephony" revision="7fad8a871b198fe43b7e91f10a73fb19edc1e007" upstream="refs/heads/cm-10.2"/>
+  <project groups="pdk" name="CyanogenMod/android_frameworks_opt_telephony" path="frameworks/opt/telephony" revision="c28ce4277b319d4c40112e9c67a96f832b10922a" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_frameworks_opt_telephony-msim" path="frameworks/opt/telephony-msim" revision="3cd1b966c3dcbf988cfdc67a27ae22ce184c9b86" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_frameworks_opt_timezonepicker" path="frameworks/opt/timezonepicker" revision="5c6054dc4e2a390c4ddcd050e3374d28fed1db3f" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_frameworks_opt_vcard" path="frameworks/opt/vcard" revision="daac19c9d13221345044b5210ac52ff0396af3b8" upstream="refs/heads/cm-10.2"/>
@@ -238,11 +238,11 @@
   <project groups="broadcom_wlan" name="CyanogenMod/android_hardware_broadcom_wlan" path="hardware/broadcom/wlan" revision="3cc1f8a1eb2986db05de6dd25c0869921dc41136" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_hardware_cm" path="hardware/cm" revision="8b90a4e9a2907daccba3800adecad5abb5d1c367" upstream="refs/heads/cm-10.2"/>
   <project groups="invensense" name="CyanogenMod/android_hardware_invensense" path="hardware/invensense" revision="de880a60e91e342912110aecc5f15385d791aa2a" upstream="refs/heads/cm-10.2"/>
-  <project groups="pdk" name="CyanogenMod/android_hardware_libhardware" path="hardware/libhardware" revision="389af37a3f217f7bd5860f373d38dae1072d9407" upstream="refs/heads/cm-10.2"/>
-  <project groups="pdk" name="CyanogenMod/android_hardware_libhardware_legacy" path="hardware/libhardware_legacy" revision="37b76a3fb0bf90d4b272e30184a8b41e6fa2aaef" upstream="refs/heads/cm-10.2"/>
+  <project groups="pdk" name="CyanogenMod/android_hardware_libhardware" path="hardware/libhardware" revision="0a146771acc098efe3e22c4fcba1e42edfa5d957" upstream="refs/heads/cm-10.2"/>
+  <project groups="pdk" name="CyanogenMod/android_hardware_libhardware_legacy" path="hardware/libhardware_legacy" revision="3aee01d7fdad1876db5e79b28766c8d3736e0e77" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_hardware_msm7k" path="hardware/msm7k" revision="82b8164aad76c45db5a0ace0c380ad220c5f0081" upstream="refs/heads/cm-10.2"/>
   <project groups="qcom" name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio" revision="3ca121d25000734f9d8b041a43b75832f5cab22e" upstream="refs/heads/cm-10.2"/>
-  <project groups="caf" name="CyanogenMod/android_hardware_qcom_audio-caf" path="hardware/qcom/audio-caf" revision="8f88cac1084451d6b6f03314f1ac5cc1802e4e1b" upstream="refs/heads/cm-10.2"/>
+  <project groups="caf" name="CyanogenMod/android_hardware_qcom_audio-caf" path="hardware/qcom/audio-caf" revision="e0f67c7c6251ae6ca39edaaf16f50f11d201b500" upstream="refs/heads/cm-10.2"/>
   <project groups="qcom" name="CyanogenMod/android_hardware_qcom_bt" path="hardware/qcom/bt" revision="5935091d57a09b3f5549a27134b3cbbe1370d17f" upstream="refs/heads/cm-10.2"/>
   <project groups="qcom" name="CyanogenMod/android_hardware_qcom_display" path="hardware/qcom/display" revision="e907c49d19362c3b66815694696cb514d352cdc3" upstream="refs/heads/cm-10.2"/>
   <project groups="caf" name="CyanogenMod/android_hardware_qcom_display-caf" path="hardware/qcom/display-caf" revision="3b82185345f3660dd5295c46ee009942c6787e2d" upstream="refs/heads/cm-10.2"/>
@@ -262,15 +262,15 @@
   <project name="CyanogenMod/android_hardware_ti_wpan" path="hardware/ti/wpan" revision="59d89eaa4ca8ad49ca28d40a72ba4dd229ed6d5c" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_libcore" path="libcore" revision="6dad7429a395b3fe4cddf61aad6be79875ea36cf" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk-java" name="CyanogenMod/android_libnativehelper" path="libnativehelper" revision="3abb5383d9883eb98c0371957043e5d67e448a06" upstream="refs/heads/cm-10.2"/>
-  <project name="CyanogenMod/android_packages_apps_Apollo" path="packages/apps/Apollo" revision="2fccc6344ab337aed6c50424f377f7366a863402" upstream="refs/heads/cm-10.2"/>
+  <project name="CyanogenMod/android_packages_apps_Apollo" path="packages/apps/Apollo" revision="c17b8e704d8357cb8841cb7adfcb82296cb7806e" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_BasicSmsReceiver" path="packages/apps/BasicSmsReceiver" revision="b927846305771caeac3fc35c00d6f0f10da186ce" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_Bluetooth" path="packages/apps/Bluetooth" revision="3750e47742270b5a17b856a2b13bbd66503e50ac" upstream="refs/heads/cm-10.2"/>
-  <project name="CyanogenMod/android_packages_apps_BluetoothExt" path="packages/apps/BluetoothExt" revision="42443098b8b3824ec67d57233e7c65d5be37ea3a" upstream="refs/heads/cm-10.2"/>
+  <project name="CyanogenMod/android_packages_apps_BluetoothExt" path="packages/apps/BluetoothExt" revision="74387c5b607393ced4db07286a8f09133bc21ccf" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_Browser" path="packages/apps/Browser" revision="e22609197a2f1250a45263436599e8a3286286c9" upstream="refs/heads/cm-10.2"/>
-  <project name="CyanogenMod/android_packages_apps_CMAccount" path="packages/apps/CMAccount" revision="17d14d4ab35dc8b882fc46c0552b59b70c105907" upstream="refs/heads/cm-10.2"/>
+  <project name="CyanogenMod/android_packages_apps_CMAccount" path="packages/apps/CMAccount" revision="8028cad43b383bfc9f7d61944177383eaf145c41" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_CMFileManager" path="packages/apps/CMFileManager" revision="e38d9f1fc3e1ffabd31092510262ff83051da023" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_CMWallpapers" path="packages/apps/CMWallpapers" revision="108f5787c745ca8f24a9a51b274fa08b78964d97" upstream="refs/heads/cm-10.2"/>
-  <project name="CyanogenMod/android_packages_apps_Calculator" path="packages/apps/Calculator" revision="f67e8254ff35f5f16ed4c6079a9e97d5e3106c31" upstream="refs/heads/cm-10.2"/>
+  <project name="CyanogenMod/android_packages_apps_Calculator" path="packages/apps/Calculator" revision="5534ae7a67323087bae723daf8e0b6ba5958ba74" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_Calendar" path="packages/apps/Calendar" revision="4983fcd8887c3891e275bda72ddb31119a457e6a" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_CellBroadcastReceiver" path="packages/apps/CellBroadcastReceiver" revision="16734e01594f6b8e63b0b56ce4f97437b8b8ea2e" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_CertInstaller" path="packages/apps/CertInstaller" revision="3b8c327e938c358247e125471fa474357a14a1e4" upstream="refs/heads/cm-10.2"/>
@@ -281,26 +281,26 @@
   <project name="CyanogenMod/android_packages_apps_Dialer" path="packages/apps/Dialer" revision="86d4ca4357d9986edee1ba41d6fa637771a2df60" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_Email" path="packages/apps/Email" revision="e9048a5bc093865cf37fdbd0a8c51ec4588ffec1" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_Exchange" path="packages/apps/Exchange" revision="4878146db687b8836e9fc0c22d782463f04b2e02" upstream="refs/heads/cm-10.2"/>
-  <project name="CyanogenMod/android_packages_apps_Gallery2" path="packages/apps/Gallery2" revision="4fde8c71275c561bb8fd1803b496a86287601e74" upstream="refs/heads/cm-10.2"/>
+  <project name="CyanogenMod/android_packages_apps_Gallery2" path="packages/apps/Gallery2" revision="b9d82fe40163b6e4f44ef811be758430d7e9f06e" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_HTMLViewer" path="packages/apps/HTMLViewer" revision="9021af05dfb8db1f26e8636988b16e5a1bcde9d8" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_KeyChain" path="packages/apps/KeyChain" revision="d39aeef81d051485d0300d622fc2656935149fdf" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_LockClock" path="packages/apps/LockClock" revision="2797a20f0f7d5558b1928f664c3610502e534162" upstream="refs/heads/cm-10.2"/>
-  <project name="CyanogenMod/android_packages_apps_Mms" path="packages/apps/Mms" revision="f16767dfd2eba8eaf8cbfa66050b423b8b391e0f" upstream="refs/heads/cm-10.2"/>
+  <project name="CyanogenMod/android_packages_apps_Mms" path="packages/apps/Mms" revision="27ae7334d7f2a456b4f45d6e934e5f38eed2b2b9" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_Nfc" path="packages/apps/Nfc" revision="6fd9d41d6f23c83556e73cdcffd1e6ba10968dff" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_OneTimeInitializer" path="packages/apps/OneTimeInitializer" revision="c23fe93bfc61357f2977d9a6449e6975b58fd4e4" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_PackageInstaller" path="packages/apps/PackageInstaller" revision="5ed9a3447e5369baef9de6c4372e2fc290e1a235" upstream="refs/heads/cm-10.2"/>
-  <project name="CyanogenMod/android_packages_apps_Phone" path="packages/apps/Phone" revision="34773907e08ebadb0f6001b2c0a12b2e5bb57e7d" upstream="refs/heads/cm-10.2"/>
+  <project name="CyanogenMod/android_packages_apps_Phone" path="packages/apps/Phone" revision="b1793a03dc1c8f46bdcc2659434239e21622e2d0" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_PhoneCommon" path="packages/apps/PhoneCommon" revision="180de3514a800df7b9ca8f1c3da23287a709f61b" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_Provision" path="packages/apps/Provision" revision="db9928dd7730c56c14e59802577a229dbf8aca02" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_QuickSearchBox" path="packages/apps/QuickSearchBox" revision="0086b7ea05249bb0e17172997f32ee5a9334fd75" upstream="refs/heads/cm-10.2"/>
-  <project name="CyanogenMod/android_packages_apps_Settings" path="packages/apps/Settings" revision="1b4da541cea76deed937900c248809ba2784a0d7" upstream="refs/heads/cm-10.2"/>
+  <project name="CyanogenMod/android_packages_apps_Settings" path="packages/apps/Settings" revision="de785f3b42bf306a78aa97dff08ec8bad978a95b" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_SmartCardService" path="packages/apps/SmartCardService" revision="29eae320a4bd222b5ff1c092f84f1aebba88d0b7" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_SoundRecorder" path="packages/apps/SoundRecorder" revision="9c69267a672d87b7cc42e1d7179bc55d8065b3e7" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_SpeechRecorder" path="packages/apps/SpeechRecorder" revision="fe0e0f58007abd0680ed5dd33b78678f593d665c" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_Stk" path="packages/apps/Stk" revision="dea4f7f3456481d90d57d667768ed57469447213" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_Tag" path="packages/apps/Tag" revision="5bdf1d735b9b9fd673472b7b98b19b5d560d0b75" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_Torch" path="packages/apps/Torch" revision="81fd6e8b5050cc93af3eafde31c8438b2e6ef5f3" upstream="refs/heads/cm-10.2"/>
-  <project name="CyanogenMod/android_packages_apps_Trebuchet" path="packages/apps/Trebuchet" revision="0033d60ca94c72c167c8e56fd5860326e50f429c" upstream="refs/heads/cm-10.2"/>
+  <project name="CyanogenMod/android_packages_apps_Trebuchet" path="packages/apps/Trebuchet" revision="8165766b677046c62cb4b93e9974876b85434443" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_VideoEditor" path="packages/apps/VideoEditor" revision="9fde6eaef3fb74f2c2c605de2d1a2bda83540e8a" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_VoiceDialer" path="packages/apps/VoiceDialer" revision="3131488047d3af1f682aee23f9a01ed5e09f65ac" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_packages_apps_VoicePlus" path="packages/apps/VoicePlus" revision="39a38ab1caded8865a4d72dcc0929c302a91d7b6" upstream="refs/heads/cm-10.2"/>
@@ -331,14 +331,14 @@
   <project name="CyanogenMod/android_prebuilt" path="prebuilt" revision="8cd7b1da50074241e6d86e7d60150e096c7206c8" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_sdk" path="sdk" revision="30189f4b7da083e98dcba89483b79630a2fac820" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_system_bluetooth" path="system/bluetooth" revision="e43e95e015205d60fe78622500d55209ff085519" upstream="refs/heads/cm-10.2"/>
-  <project groups="pdk" name="CyanogenMod/android_system_core" path="system/core" revision="7b4469e9950aaddc6bd156fdc2995e3ace365177" upstream="refs/heads/cm-10.2"/>
-  <project groups="pdk" name="CyanogenMod/android_system_extras" path="system/extras" revision="691da319acbfb30dc65bac4539d3c3a4f29c583d" upstream="refs/heads/cm-10.2"/>
+  <project groups="pdk" name="CyanogenMod/android_system_core" path="system/core" revision="3bc302960f44f832c80cf47da6bff5823007e93f" upstream="refs/heads/cm-10.2"/>
+  <project groups="pdk" name="CyanogenMod/android_system_extras" path="system/extras" revision="328353ab19bee93e92bfedbf88c21bb32c26f303" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_system_media" path="system/media" revision="f823fa9bae3efd64de854f63df0022122ae877a7" upstream="refs/heads/cm-10.2"/>
-  <project groups="pdk" name="CyanogenMod/android_system_netd" path="system/netd" revision="ea41f08028d87658ef9549d8dc10ff5ee87eb9b7" upstream="refs/heads/cm-10.2"/>
+  <project groups="pdk" name="CyanogenMod/android_system_netd" path="system/netd" revision="203f8c87522c3bb7495bfec6a51361018063f5ef" upstream="refs/heads/cm-10.2"/>
   <project groups="qcom" name="CyanogenMod/android_system_qcom" path="system/qcom" revision="2b78d84937161f99996213d64b72bd15c9355544" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_system_security" path="system/security" revision="b57bd4a1d4c7e737a8a6e09f35aba1b93626c89f" upstream="refs/heads/cm-10.2"/>
-  <project groups="pdk" name="CyanogenMod/android_system_vold" path="system/vold" revision="d579a8158c0f23a1ee56e3efd0478176f33c4d23" upstream="refs/heads/cm-10.2"/>
-  <project name="CyanogenMod/android_vendor_cm" path="vendor/cm" revision="980e6b83d5331e54359f5c0eb27a008fc50c5ced" upstream="refs/heads/cm-10.2"/>
+  <project groups="pdk" name="CyanogenMod/android_system_vold" path="system/vold" revision="430f6fbc376d8f2f9bfdacdc511c49d31e22de14" upstream="refs/heads/cm-10.2"/>
+  <project name="CyanogenMod/android_vendor_cm" path="vendor/cm" revision="3c52c900ddd93138aea897e227af5fbf655460b1" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_vendor_qcom_opensource_v8" path="vendor/qcom/opensource/v8" revision="ed6baff3b8971fe968a30c0c7dc631be1f31fd5c" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" path="vendor/tmobile/libs/com.tmobile.themes" revision="4c0f151c11b3de7b70f5ef1d67a69501147bf263" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" path="vendor/tmobile/providers/ThemeManager" revision="d077dd57c9653ae5060784b6645234aab9ecc13b" upstream="refs/heads/cm-10.2"/>
@@ -350,7 +350,7 @@
   <project name="Dazzozo/android_hardware_qcom_display-legacy" path="hardware/qcom/display-legacy" revision="036912614dba650b5cd52d120da44e520bb967ef" upstream="jellybean-mr2"/>
   <project name="Dazzozo/android_hardware_qcom_media-legacy" path="hardware/qcom/media-legacy" revision="da807080a49479f15270f442fda5e7b4010bd081" upstream="jellybean-mr2"/>
   <project name="Dazzozo/android_packages_apps_CMUpdater" path="packages/apps/CMUpdater" revision="2971fcf5c458e2e56595e97d9618a107eb915529" upstream="cm-10.2"/>
-  <project name="Dazzozo/huawei-kernel-3.4" path="kernel/huawei/huawei-kernel-3.4" revision="c8f444ee006b075304567592fb97f16ca55e1816" upstream="jellybean-mr2"/>
+  <project name="Dazzozo/huawei-kernel-3.4" path="kernel/huawei/huawei-kernel-3.4" revision="fa26070f0873cb76701aed024d50e1a2bd535b9e" upstream="jellybean-mr2"/>
   <project name="fusion2/proprietary_vendor_huawei" path="vendor/huawei" revision="616257a4b9c00c39656a5fcd810fd2b4bf0e72f8" upstream="jellybean-mr2"/>
   <project name="androidarmv6/android_frameworks_native" path="frameworks/native" revision="ac748824f662b9b8dd71eb35877dbf4800fbd780" upstream="cm-10.2"/>
   <project groups="pdk" name="device/generic/mini-emulator-armv7-a-neon" remote="aosp" revision="40683ac280c46bdff5680feaa65352a0384e8218" upstream="refs/tags/android-4.3.1_r1"/>
