@@ -205,7 +205,7 @@
   <project groups="pdk" name="CyanogenMod/android_external_yaffs2" path="external/yaffs2" revision="03a490214dc2ac29104ed10b29659d9585a6a5f2" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_external_zlib" path="external/zlib" revision="20f1a74432fdb680742c150dc63e4d9ca3bbc2ad" upstream="refs/heads/cm-10.2"/>
   <project name="CyanogenMod/android_external_zxing" path="external/zxing" revision="7620644768ffc235607b3a94671e49518c18686f" upstream="refs/heads/cm-10.2"/>
-  <project name="CyanogenMod/android_frameworks_base" path="frameworks/base" revision="62a9e9b34deff57ca852d33d9c80fbc237102b96" upstream="refs/heads/cm-10.2"/>
+  <project name="CyanogenMod/android_frameworks_base" path="frameworks/base" revision="3d585059d7410c26a542aa5d5534c4f65898e54c" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_frameworks_compile_libbcc" path="frameworks/compile/libbcc" revision="1b71dedd47fc8ed6f4f77ece13fa985fd7d2c0a4" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_frameworks_compile_mclinker" path="frameworks/compile/mclinker" revision="683cef9b23d77bf85b544a1edb63d19abafa5282" upstream="refs/heads/cm-10.2"/>
   <project groups="pdk" name="CyanogenMod/android_frameworks_compile_slang" path="frameworks/compile/slang" revision="d3cd103c40e646408d844318fa1cc87736b1e7b1" upstream="refs/heads/cm-10.2"/>
