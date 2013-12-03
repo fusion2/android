@@ -467,7 +467,7 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project name="legaCyMod/android_frameworks_av" path="frameworks/av" revision="cm-11.0"/>
-  <project name="legaCyMod/android_hardware_atheros_wlan" path="hardware/atheros/wlan" revision="cm-10.2" />
+  <project name="legaCyMod/android_hardware_atheros_wlan" path="hardware/atheros/wlan" revision="cm-11.0" />
   <project name="androidarmv6/android_frameworks_native" path="frameworks/native" revision="cm-11.0" />
   <project name="Dazzozo/android_hardware_atheros_wifi_ath6kl-huawei" path="hardware/atheros/wifi/ath6kl-huawei" revision="master"/>
   <project name="Dazzozo/android_hardware_qcom_display-legacy" path="hardware/qcom/display-legacy" revision="jellybean-mr2" />
