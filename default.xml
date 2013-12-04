@@ -340,7 +340,6 @@
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMAccount" name="CyanogenMod/android_packages_apps_CMAccount" />
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" />
-  <project path="packages/apps/CMUpdater" name="CyanogenMod/android_packages_apps_CMUpdater" />
   <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
   <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" />
   <project path="packages/apps/ContactsCommon" name="CyanogenMod/android_packages_apps_ContactsCommon" />
@@ -472,7 +471,6 @@
   <project name="Dazzozo/android_hardware_atheros_wifi_ath6kl-huawei" path="hardware/atheros/wifi/ath6kl-huawei" revision="master"/>
   <project name="Dazzozo/android_hardware_qcom_display-legacy" path="hardware/qcom/display-legacy" revision="jellybean-mr2" />
   <project name="Dazzozo/android_hardware_qcom_media-legacy" path="hardware/qcom/media-legacy" revision="jellybean-mr2" />
-  <project name="Dazzozo/android_packages_apps_CMUpdater" path="packages/apps/CMUpdater" revision="cm-10.2" />
   <project name="fusion2/android_device_huawei_msm7x27a-common" path="device/huawei/msm7x27a-common" revision="cm-10.2" />
   <project name="fusion2/android_device_huawei_u8665" path="device/huawei/u8665" revision="cm-11.0" />
   <project name="fusion2/proprietary_vendor_huawei" path="vendor/huawei" revision="jellybean-mr2" />
