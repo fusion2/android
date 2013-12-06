@@ -429,5 +429,5 @@
   <project name="fusion2/android_device_huawei_msm7x27a-common" path="device/huawei/msm7x27a-common" revision="cm-10.2" />
   <project name="fusion2/android_device_huawei_u8665" path="device/huawei/u8665" revision="cm-10.2" />
   <project name="fusion2/proprietary_vendor_huawei" path="vendor/huawei" revision="jellybean-mr2" />
-  <project path="kernel/huawei/huawei-kernel-3.4" name="Dazzozo/huawei-kernel-3.4" remote="github" revision="jellybean-mr2" />
+  <project path="kernel/huawei/huawei-kernel-3.4" name="fusion2/huawei-kernel-3.4" remote="github" revision="jellybean-mr2" />
 </manifest>
